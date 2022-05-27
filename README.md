@@ -39,3 +39,8 @@ And for each park I see:
 - direction info
 - standard hours for operation
 ```
+
+### Notes: 
+The user story is completed without service/facade testing for demonstrating purposes. End view page:
+![image](https://user-images.githubusercontent.com/97060659/170619047-189b38ca-9579-49e1-a2f5-7b820627ccea.png)
+
